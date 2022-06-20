@@ -1,4 +1,4 @@
-# hughes-lab
+# Hughes Lab at Scripps Research website
 
 ## Project setup
 ```
